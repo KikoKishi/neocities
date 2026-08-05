@@ -12,9 +12,11 @@ height: 100vh;
 background-attachment: fixed;
 }
 
-<style>
-   .bordered-blog {
-border: 3px;
-padding: 10px;
+.scroll-box {
+ height: 120px;
+ width: 100%;
+ border: 1px solid #ccc;
+ overflow: auto;
+ padding: 10px 
+
 }
-</style>
