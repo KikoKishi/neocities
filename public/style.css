@@ -10,6 +10,7 @@ background-repeat: no-repeat;
 background-size: cover; /* contain */
 width: 100%;
 height: 100vh;
+background-attachment: fixed;
 }
 .scroll-box {
 width: 300px;
@@ -18,5 +19,4 @@ overflow-y: auto;
 overflow-x: hidden;
 border: 1px solid #ccc;
 padding: 10px;
-
 }
