@@ -3,7 +3,7 @@
    "how to change link color." */
 
 body {
-background-image: url('backgroundimage.png');
+background-image: url('public\gifsandpngs\CastleAttempt.png');
 background-position:center center;
 background-repeat: no-repeat;
 background-size: cover; /* contain */
